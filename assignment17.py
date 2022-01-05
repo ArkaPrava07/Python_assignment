@@ -1,0 +1,1 @@
+sampledict={"name":"kelly","age":25,"sallary":8000,"city":"new work"}
